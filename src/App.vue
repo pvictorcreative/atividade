@@ -1,15 +1,15 @@
 <template>
   <div id="app">
-    <Sortedor />
+    <RandomierComponents />
   </div>
 </template>
 
 <script>
-import Sortedor from './components/Sortedor.vue';
+import RandomierComponents from './components/RandomierComponents.vue';
 
 export default {
   name: 'App',
-  components: { Sortedor },
+  components: { RandomierComponents },
 };
 </script>
 

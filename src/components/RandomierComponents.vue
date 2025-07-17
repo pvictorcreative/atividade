@@ -23,7 +23,7 @@
 
 <script>
 export default {
-  name: 'Sorteador',
+  name: 'RandomierComponents',
   data() {
     return {
       count: 1,
